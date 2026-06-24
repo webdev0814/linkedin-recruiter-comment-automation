@@ -1,0 +1,16 @@
+tmp/
+output/
+*.pdf
+*.png
+*.csv
+*.html
+ig_bundles_scripts.js
+jobpage.js
+ACTION_PLAN.md
+PROFILE_REWRITE.md
+PURGE_REVIEW_LIST_TEMPLATE.md
+RECRUITER_TARGET_MATRIX.md
+LINKEDIN_SETTINGS_CHECKLIST.md
+NYC_NYS_FULLY_REMOTE_PUBLIC_SECTOR_CONTRACT_LEADS.csv
+VOICE_NOTES_X_AND_LINKEDIN.md
+!templates/linkedin_comment_queue_template.csv
