@@ -1,10 +1,10 @@
 # Agent Briefing: linkedin-recruiter-comment-automation
 
 ## 1. Repository Overview & Purpose
-- **Repository Name**: `linkedin-recruiter-comment-automation`
+- **Repository**: `webdev0814/linkedin-recruiter-comment-automation`
 - **Visibility**: `Public`
 - **Default Branch**: `main`
-- **Last Updated / Pushed**: 2026-06-24
+- **Last Updated / Pushed**: 2026-09-04
 - **Description**: Public-safe workflow and templates for finding recruiter-adjacent LinkedIn posts and drafting manual comments.
 - **Context from README**: This repository packages a public-safe workflow for finding recruiter-adjacent LinkedIn posts and drafting short manual comments for them. The focus is public-sector recruiting lanes such as state, city, county, gov tech, government contractors, and adjacent hiring conversations where automation, an...
 
@@ -14,7 +14,7 @@
 ## 2. Tech Stack & Architecture
 - **Primary Language / Ecosystem**: General / Multi-language
 - **Key Directories**: `templates/`
-- **Notable Top-Level Files**: `.gitignore`, `DAILY_LINKEDIN_COMMENT_WORKFLOW.md`, `LICENSE`, `LINKEDIN_COMMENT_CONTRACT.md`, `PUBLIC_REPO_SCOPE.md`, `README.md`
+- **Notable Top-Level Files**: `.gitignore`, `AGENTS.md`, `CLAUDE.md`, `DAILY_LINKEDIN_COMMENT_WORKFLOW.md`, `GEMINI.md`, `LICENSE`, `LINKEDIN_COMMENT_CONTRACT.md`, `PUBLIC_REPO_SCOPE.md`, `README.md`
 
 ---
 
@@ -38,6 +38,9 @@
 
 ## 4. Recent Commit Activity (Where We Left Off)
 The most recent commits show the latest development trajectory:
+- `[1bb4041]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[fd53f04]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[6e2468c]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[5535630]` (2026-06-24) Initial public release
 
 ---
