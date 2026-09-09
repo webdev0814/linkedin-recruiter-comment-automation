@@ -4,7 +4,7 @@
 - **Repository**: `webdev0814/linkedin-recruiter-comment-automation`
 - **Visibility**: `Public`
 - **Default Branch**: `main`
-- **Last Updated / Pushed**: 2026-09-08
+- **Last Updated / Pushed**: 2026-09-09
 - **Description**: Public-safe workflow and templates for finding recruiter-adjacent LinkedIn posts and drafting manual comments.
 - **Context from README**: This repository packages a public-safe workflow for finding recruiter-adjacent LinkedIn posts and drafting short manual comments for them. The focus is public-sector recruiting lanes such as state, city, county, gov tech, government contractors, and adjacent hiring conversations where automation, an...
 
@@ -38,6 +38,9 @@
 
 ## 4. Recent Commit Activity (Where We Left Off)
 The most recent commits show the latest development trajectory:
+- `[5ffea08]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
+- `[d132842]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
+- `[c9e10b4]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[9df9bbc]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[21da009]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[a10e643]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
@@ -45,9 +48,6 @@ The most recent commits show the latest development trajectory:
 - `[a1d9401]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[f3d353d]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[2f2363c]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
-- `[7a11385]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
-- `[d06ec13]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
-- `[d6c9a1a]` (2026-09-08) docs: update agent briefing with multi-computer handoff protocol
 
 ---
 
